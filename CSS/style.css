@@ -7,25 +7,25 @@ html {
 }
 
 body {
-    background-image: url('../images/the-persistence-of-memory.jpg');
+    background-image: url('../images/clock.jpg');
     background-size: cover;
 
 }
 
 #clock {
     padding-bottom: 10px;
-    padding-top: 300px;
+    padding-top: 200px;
     margin: 0px;
     text-align: center;
     font-size: 85px;
-    color: rgb(228, 202, 85);
+    color: white;
 }
 
 #month {
-    padding-bottom: 200px;
+    padding-bottom: 30px;
     padding-top: 10px;
     margin: 0px;
     text-align: center;
-    font-size: 85px;
-    color: rgb(228, 202, 85);
+    font-size: 40px;
+    color: white;
 }
